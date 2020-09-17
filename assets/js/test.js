@@ -1,4 +1,4 @@
-const states = ['D', 'Du', 'Duv', 'Duvi', 'Duvi_', 'Duvi_B', 'Duvi_Bo', 'Duvi_Bot'];
+const states = ['D', 'Du', 'Duv', 'Duvi'];
 let i = 0;
 setInterval(() => {
   if (i === states.length - 1) {
